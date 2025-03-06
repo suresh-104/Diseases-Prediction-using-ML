@@ -23,3 +23,5 @@ Algorithm Used: Support Vector Machine (SVM)
 Preprocessing: StandardScaler for feature scaling
 Model Storage: Pickled for efficient loading
 Performance: Achieved high accuracy after hyperparameter tuning
+
+web app link - https://multiple-diseases-predication-depoly-khzgvx9ftlvwz3waf5fotk.streamlit.app/
